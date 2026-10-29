@@ -1,0 +1,4 @@
+Simpan foto Anda di folder ini dengan nama:
+gunung-karang.jpg
+gunung-pulosari.jpg
+curug-cikotak.jpg
